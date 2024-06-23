@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Textractor</string>
+    <string name="scanner_logo">Scanner Logo</string>
+    <string name="textractor">Textractor</string>
+    <string name="editlogo">editlogo</string>
+    <string name="cameralogo">cameralogo</string>
+    <string name="copylogo">copylogo</string>
+    <string name="erase">Erase</string>
+    <string name="camera">Camera</string>
+    <string name="copy">Copy</string>
+    <string name="extracted_text_should_be_appear_here">Extracted Text Should be Appear Here</string>
+    <string name="extracted_text_should_be_shown_here">Extracted Text Should be Shown Here</string>
+</resources>
